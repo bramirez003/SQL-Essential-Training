@@ -1,0 +1,1 @@
+SELECT Name AS Country, Region, Continent FROM Country;
